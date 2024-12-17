@@ -1,5 +1,5 @@
 {
-    "name": "ccwwonebyone/thinkorm-bundle",
+    "name": "caleb/thinkorm-bundle",
     "description": "Symfony Think Orm Bundle",
     "type": "symfony-bundle",
     "license": "MIT",
